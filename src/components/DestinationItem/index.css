@@ -1,0 +1,11 @@
+.bgContainer {
+  border-radius: 8px;
+  margin: 15px;
+}
+.para {
+  color: #000000;
+}
+.img {
+  width: 150px;
+  height: 100px;
+}
